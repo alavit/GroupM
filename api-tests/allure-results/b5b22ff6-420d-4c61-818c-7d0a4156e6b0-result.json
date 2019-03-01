@@ -1,0 +1,1 @@
+{"uuid":"b5b22ff6-420d-4c61-818c-7d0a4156e6b0","historyId":"a768e30fba9839909f9cebf13ee78213","labels":[{"name":"suite","value":"com.socks.tests.brutal.LocationTests"},{"name":"package","value":"com.socks.tests.brutal.LocationTests"}],"name":"testCanGetLocationBySearchText()","status":"passed","stage":"finished","start":1551385703628,"stop":1551385707360}

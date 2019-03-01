@@ -1,0 +1,1 @@
+{"uuid":"57be422c-3674-4b90-8da3-adfdc4586c61","historyId":"cc3e637b92c2e4755e9d549e716bdc35","labels":[{"name":"suite","value":"com.here.tests.LocationTests"},{"name":"package","value":"com.here.tests.LocationTests"}],"name":"testCanGetLocationBySearchText()","status":"passed","stage":"finished","start":1551430661051,"stop":1551430664615}

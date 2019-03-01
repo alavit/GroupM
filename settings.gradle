@@ -1,3 +1,4 @@
-rootProject.name = ' september-mentoring'
+rootProject.name = 'groupm-codeassignment'
 include 'api-tests'
+include 'ui-tests'
 
